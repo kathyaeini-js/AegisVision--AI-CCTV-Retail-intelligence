@@ -1,0 +1,6 @@
+{
+  "name": "AegisVision - AI CCTV Retail Intelligence & Pose Security",
+  "description": "Real-time CCTV pose tracking, retail merchandise interest analytics, heatmaps, and suspicious behavior detection with Gemini vision forensic auditing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
